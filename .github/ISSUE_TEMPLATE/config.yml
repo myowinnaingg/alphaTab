@@ -6,3 +6,7 @@ contact_links:
   - name: General Question
     url: https://github.com/CoderLine/alphaTab/discussions?discussions_q=category%3AQ%26A
     about: Ask any question about alphaTab.
+
+    theme: jekyll-theme-minimal
+title: myowinnaingg's homepage
+description: Bookmark this to keep an eye on my project updates!
